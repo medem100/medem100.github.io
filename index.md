@@ -7,8 +7,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-![ich](von-forne.jpg)
 <img src="von-forne.jpg ich " alt="Ich"
 	title="Andre Soltau" width="400"/>
 
